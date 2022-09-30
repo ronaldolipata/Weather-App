@@ -1,0 +1,34 @@
+.container {
+  margin: 2rem;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 0;
+}
+
+.currentTemperature {
+  font-size: 2.5rem;
+}
+
+.dateToday {
+  margin-top: 2rem;
+}
+
+.flexItem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.icon {
+  scale: 1.5;
+  margin: 0;
+}
+
+.summary {
+  padding-top: 1rem;
+  font-size: 1.3rem;
+}

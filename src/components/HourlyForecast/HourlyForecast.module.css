@@ -1,0 +1,23 @@
+li {
+  list-style-type: none;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+  text-align: center;
+  background-color: #232838;
+  padding: 2rem 3rem;
+  border-radius: 3px;
+}
+
+.summary {
+  font-weight: 600;
+}
+
+.time,
+.icon,
+.summary {
+  padding-bottom: 0.75rem;
+}
